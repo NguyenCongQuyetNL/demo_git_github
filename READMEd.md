@@ -1,3 +1,3 @@
-ssd second-ssh
+ssh second ssh
 
 
